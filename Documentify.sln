@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35323.107
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Documentify", "Documentify\Documentify.csproj", "{A6F3D5ED-E5E6-48DE-8643-1294A6E383D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6F3D5ED-E5E6-48DE-8643-1294A6E383D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6F3D5ED-E5E6-48DE-8643-1294A6E383D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6F3D5ED-E5E6-48DE-8643-1294A6E383D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6F3D5ED-E5E6-48DE-8643-1294A6E383D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CBF9557-5B80-49CF-9FFF-99A266A388D5}
+	EndGlobalSection
+EndGlobal

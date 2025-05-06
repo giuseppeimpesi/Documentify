@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS0219: La variabile è assegnata, ma il suo valore non viene mai usato
+dotnet_diagnostic.CS0219.severity = suggestion
